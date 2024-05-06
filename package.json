@@ -1,0 +1,19 @@
+{
+  "name": "js_backend",
+  "version": "1.0.0",
+  "description": "backend part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Nucxlear/js_backend.git)"
+  },
+  "author": "Vlad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.0"
+  }
+}
